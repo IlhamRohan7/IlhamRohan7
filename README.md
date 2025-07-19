@@ -2,7 +2,6 @@
 
 ## 🚀 About Me
 - 🎓 I’m a student currently studying **Industrial and Production Engineering** with a strong passion for **Computer Engineering** and **Data Analytics**.
-- 📊 I’m on a journey to become a **top-level Data Analyst**—blending analytical thinking, technical skills, and real-world problem solving.
 - 💡 I believe in disciplined self-learning and continuous improvement.
 
 ## 👀 Interests
