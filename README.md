@@ -33,8 +33,7 @@
 ## 😄 Pronouns
 - He/Him
 
-## ⚡ Fun Fact
-- I once won a chess competition and a general knowledge quiz in the same week. Strategy and curiosity—my two favorite tools.
+
 
 
 <!---
